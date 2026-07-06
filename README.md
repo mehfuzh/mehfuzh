@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mehfuz</h1>
-<h3 align="center">Applied AI Engineer & Co-Founder of Smartloop. Building open-source LLM infrastructure. 🧠</h3>
+<h3 align="center">Applied AI Engineer & Co-Founder of Smartloop. Building agentic workflows. 🧠</h3>
 
-- 🔭 I'm currently building [Smartloop](https://smartloop.ai) — an open-source LLM framework for fine-tuning, evaluating, and serving domain-specific models.
+- 🔭 I'm currently building [Smartloop](https://smartloop.ai) — A local orchestration tool that uses multiple small models based on capabilities to produce comparable results to their LLM counterpart
 
 - 🧪 Author of open-source tooling for **PEFT (LoRA/QLoRA), SFT, DPO, RLHF post-training**, offline eval harnesses, and OpenAI-compatible serving.
 
-- 🤖 Deep in **multi-agent coordination, RAG, text-to-SQL, LLM-as-judge evaluation, and inference optimization** (INT4/INT8, distillation, speculative decoding).
+- 🤖 Deep in **multi-agent coordination, RAG, text-to-SQL, LLM-as-judge evaluation, and inference optimization** (INT4/INT8, distillation, quantization).
 
 - 💬 Ask me about **LLM fine-tuning, agentic systems, retrieval, evaluation, and shipping AI from prototype to production.**
 
 - 📝 I run workshops and write technical playbooks on LLM fine-tuning, evaluation, and agentic design patterns.
 
-- 📫 How to reach me **mehfuz@smartloop.ai**
+- 📫 How to reach me **mehfuz@gmail.com**
 
 - ⚡ Fun fact **Microsoft MVP (C#), 20+ years shipping software — built one of the first widget/mashup engines at Pageflakes (acquired by Myspace).**
+- I have a cat named KitKat (she is purr-fect)
+- Puedes hablarme en español 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
