@@ -1,43 +1,65 @@
-<h1 align="center">Hi 👋, I'm Mehfuz</h1>
-<h3 align="center">Applied AI Engineer & Founder building product 0-1. 🧠</h3>
+<div align="center">
+<pre>
+███╗   ███╗███████╗██╗  ██╗███████╗██╗   ██╗███████╗
+████╗ ████║██╔════╝██║  ██║██╔════╝██║   ██║╚════██║
+██╔████╔██║█████╗  ███████║█████╗  ██║   ██║    ██╔╝
+██║╚██╔╝██║██╔══╝  ██╔══██║██╔══╝  ██║   ██║   ██╔╝ 
+██║ ╚═╝ ██║███████╗██║  ██║██║     ╚██████╔╝   ██║  
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝    ╚═╝  
+</pre>
+</div>
 
-- 🔭 I'm currently building [Smartloop](https://smartloop.ai) — A local orchestration tool that uses multiple small models based on capabilities to produce comparable results to their LLM counterpart
+> **Applied AI Engineer · Co-Founder @ [Smartloop](https://smartloop.ai) · Open-Source Builder 🧠**
 
-- 🧪 Author of open-source tooling for **PEFT (LoRA/QLoRA), SFT, DPO, RLHF post-training**, offline eval harnesses, and OpenAI-compatible serving.
+20+ years shipping software. Microsoft MVP (C#). Currently deep in LLM fine-tuning, multi-agent systems, and local AI inference. Built one of the first widget/mashup engines at Pageflakes (acquired by Myspace). Now building Smartloop — local AI orchestration that runs on your machine, no data leaves, no cloud bill.
 
-- 🤖 Deep in **multi-agent coordination, RAG, text-to-SQL, LLM-as-judge evaluation, and inference optimization** (INT4/INT8, distillation, quantization).
+## 🎯 Current Focus
 
-- 💬 Ask me about **LLM fine-tuning, agentic systems, retrieval, evaluation, and shipping AI from prototype to production.**
+- Building [Smartloop](https://smartloop.ai) — routing tasks across multiple small models based on capabilities to match LLM-quality results without the cost or data exposure
+- Authoring open-source tooling for post-training (LoRA/QLoRA, SFT, DPO, RLHF) and offline evaluation
+- Running workshops and writing technical playbooks on LLM fine-tuning, evaluation, and agentic design patterns
 
-- 📝 I run workshops and write technical playbooks on LLM fine-tuning, evaluation, and agentic design patterns.
+## 💻 AI & ML Expertise
 
-- 📫 How to reach me **mehfuz@gmail.com**
+- **Post-Training**: PEFT (LoRA/QLoRA), SFT, DPO, RLHF
+- **Evaluation**: LLM-as-judge, offline eval harnesses, benchmark design
+- **Serving**: OpenAI-compatible APIs, INT4/INT8 quantization, speculative decoding, distillation
+- **Agentic Systems**: Multi-agent coordination, RAG, text-to-SQL, tool use
+- **Languages**: Python, Go, TypeScript, C#
 
-- ⚡ Fun fact **Microsoft MVP (C#), 20+ years shipping software — built one of the first widget/mashup engines at Pageflakes (acquired by Myspace).**
-- I have a cat named KitKat (she is purr-fect)
-- Puedes hablarme en español 
+## 🚀 Currently Building
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mehfuzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehfuzh" height="30" width="40" /></a>
-</p>
+- 🤖 **[Smartloop](https://smartloop.ai)** — Local AI orchestration. Multiple small models, one smart router. Your data stays on your machine.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-</p>
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+## 🔗 Connect
+
+- 🌐: [smartloop.ai](https://smartloop.ai)
+- 𝕏: [@mehfuzh](https://x.com/mehfuzh)
+- 💼: [linkedin.com/in/mehfuzh](https://linkedin.com/in/mehfuzh)
+- 📧: [mehfuz@gmail.com](mailto:mehfuz@gmail.com)
+
+## 💬 Philosophy
+
+> "Think → Build → Repeat."
+
+---
+
+<sub>I have a cat named KitKat 🐱 · Puedes hablarme en español</sub>
 
 
