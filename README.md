@@ -17,7 +17,7 @@
 
 - Building [Smartloop](https://smartloop.ai) — a local AI agent harness with an OpenAI-compatible API; run quantized open models on your hardware, connect MCP servers, and build custom skills, no cloud required
 - Authoring open-source tooling for post-training (LoRA/QLoRA, SFT, DPO, RLHF) and offline evaluation
-- Running workshops and writing technical playbooks on LLM fine-tuning, evaluation, and agentic design patterns
+- Occasionally writing about LLM fine-tuning, evaluation, and agentic design patterns
 
 ## 💻 AI & ML Expertise
 
