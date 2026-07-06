@@ -13,7 +13,7 @@
 
 20+ years shipping software. Microsoft MVP (C#). Currently deep in LLM fine-tuning, multi-agent systems, and local AI inference. Built one of the first widget/mashup engines at Pageflakes (acquired by Myspace). Now building [Smartloop](https://smartloop.ai) — run AI agents on your own machine, connect tools, build custom skills, and get things done without sending your data anywhere.
 
-## 🎯 Current Focus
+## � What I'm Cooking
 
 - Building [Smartloop](https://smartloop.ai) — a local AI agent harness with an OpenAI-compatible API; run quantized open models on your hardware, connect MCP servers, and build custom skills, no cloud required
 - Authoring open-source tooling for post-training (LoRA/QLoRA, SFT, DPO, RLHF) and offline evaluation
