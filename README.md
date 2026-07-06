@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehfuz</h1>
-<h3 align="center">Applied AI Engineer & Co-Founder of Smartloop. Building agentic workflows. 🧠</h3>
+<h3 align="center">Applied AI Engineer & Founder building product 0-1. 🧠</h3>
 
 - 🔭 I'm currently building [Smartloop](https://smartloop.ai) — A local orchestration tool that uses multiple small models based on capabilities to produce comparable results to their LLM counterpart
 
@@ -40,7 +40,4 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mehfuzh&show_icons=true&theme=default" alt="mehfuzh stats" />
-</p>
 
