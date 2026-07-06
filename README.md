@@ -9,7 +9,7 @@
 </pre>
 </div>
 
-> **Applied AI Engineer · Co-Founder @ [Smartloop](https://smartloop.ai) · Builder 🧠**
+> **Applied AI Engineer · Co-Founder @ [Smartloop](https://smartloop.ai) · Local AI Orchestration 🧠**
 
 20+ years shipping software. Microsoft MVP (C#). Currently deep in LLM fine-tuning, multi-agent systems, and local AI inference. Built one of the first widget/mashup engines at Pageflakes (acquired by Myspace). Now building [Smartloop](https://smartloop.ai) — run AI agents on your own machine, connect tools, build custom skills, and get things done without sending your data anywhere.
 
@@ -36,6 +36,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
