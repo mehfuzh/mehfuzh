@@ -11,7 +11,7 @@
 
 > **Applied AI Engineer · Co-Founder @ [Smartloop](https://smartloop.ai) · Local AI Orchestration 🧠**
 
-20+ years shipping software. Microsoft MVP (C#). Currently deep in LLM fine-tuning, multi-agent systems, and local AI inference. Built one of the first widget/mashup engines at Pageflakes (acquired by Myspace). Now building [Smartloop](https://smartloop.ai) — run AI agents on your own machine, connect tools, build custom skills, and get things done without sending your data anywhere.
+20+ years shipping software. Microsoft MVP (C#). Currently deep in LLM fine-tuning, multi-agent systems, and local AI inference. Previously building infra @anaplan, built unit testing framework JustMock @telerik. Now building [Smartloop](https://smartloop.ai) — run AI agents on your own machine, connect tools, build custom skills, and get things done without sending your data anywhere.
 
 ## 🎯 Current Focus
 
